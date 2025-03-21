@@ -40,9 +40,12 @@ This is MATLAB cracked file. However, there are alternatives you can try such as
 
 
 P.S.
-If setup hang in step 1-7 then force to close it and start setup again from step 1
+If setup hang in step 1-7 then force to close it and start setup again from step 1.
 
 P.S.2
 During update/change of already working Matlab there is no need to execute step 3
 Step 8 might be necessary to repeat (if during update/change of Matlab file  "libmwlmgrimpl.dll"  was overwritten)
-If after update/change you get error during startup of Matlab then first try to redo the step 8
+If after update/change you get error during startup of Matlab then first try to redo the step 8.
+
+P.S.3 
+After downloading files from google drive than follow these steps from 0.
